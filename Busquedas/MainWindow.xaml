@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Busquedas"
         mc:Ignorable="d"
-        Title="BFS y Costo Uniforme" Height="549.6" Width="1378.4" ResizeMode="NoResize">
+        Title="DFS y Costo Uniforme" Height="549.6" Width="1378.4" ResizeMode="NoResize">
     <Grid>
         <Image Margin="10,63,633,10" Source="map.png" Stretch="Fill"/>
         <ComboBox x:Name="cbStart" HorizontalAlignment="Left" Margin="139,10,0,0" VerticalAlignment="Top" Width="120"/>
